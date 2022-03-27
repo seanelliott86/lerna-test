@@ -1,5 +1,5 @@
 function log(msg){
-    console.log(msg + "stuff");
+    console.log(msg + "stuffss");
 };
 
 module.exports = log;

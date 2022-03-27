@@ -1,6 +1,7 @@
 {
-  "name": "@seanuikit/button",
+  "name": "seanuikit-button",
   "version": "1.3.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "cfce17579e92cc10236a67edd403d596f741f767"
 }
